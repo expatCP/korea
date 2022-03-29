@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Inception Movie"
+title:  "Test for the first posting"
 author: Expatcoupang
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
@@ -11,7 +11,7 @@ hidden: true
 rating: 4.5
 ---
 
-Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.
+Let me check whether it does work to change this title and contents. I will figure it out, and will take another action to make templates for shopping soon.
 
 #### How to use?
 
