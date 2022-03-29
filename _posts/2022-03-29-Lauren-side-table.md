@@ -1,16 +1,25 @@
 ---
 layout: post
-title:  "Test for the first posting"
+title:  "Lauren Side Table"
 author: Expatcoupang
 categories: [ Funiture/Interior ]
 tags: [round table, round, table, side table, coupang]
 image: assets/images/11.jpg
-description: "Let me check whether it does work to change this title and contents. I will figure it out, and will take another action to make templates for shopping soon. "
-featured: true
+description: "쿠팡에서 관련 상품으로 가장 고객 선호도가 높은 제품 중 하나입니다.. "
+featured: false
 hidden: true
 rating: 4.5
 ---
 
 <iframe src="https://coupa.ng/ccn7Qp" width="120" height="240" frameborder="0" scrolling="no" referrerpolicy="unsafe-url"></iframe>
 
-!<image>(https://thumbnail9.coupangcdn.com/thumbnails/remote/q89/image/retail/images/688742011593586-fc8725ed-2fff-406b-ab76-835a162e82a1.jpg)
+
+좋은 상품만 선별해서 추천드리고 있습니다.
+본 상품은 쿠팡에서 해당 제품과 관련해서, 고객 만족도, 노출 대비 판매율, 선호도가 가장 높은 제품 중의 하나입니다.
+구매하셨을 때, 크게 후회가 되지 않을 상품으로 보시면 됩니다. 
+다음 이미지를 클릭하시면 해당 상품에 대한 상세 내용을 보실 수 있습니다.
+
+바쁘시다면, 추천 이유로 좀더 요약해서 설명드렸으니, 참고 부탁드립니다.
+
+
+![image](https://thumbnail9.coupangcdn.com/thumbnails/remote/q89/image/retail/images/688742011593586-fc8725ed-2fff-406b-ab76-835a162e82a1.jpg)
