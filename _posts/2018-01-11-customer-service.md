@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Inception Movie"
-author: john
+author: Expatcoupang
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
 image: assets/images/11.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+description: "Let me check whether it does work to change this title and contents. I will figure it out, and will take another action to make templates for shopping soon. "
 featured: true
 hidden: true
 rating: 4.5
