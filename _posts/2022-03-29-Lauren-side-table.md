@@ -8,7 +8,7 @@ image: assets/images/11.jpg
 rating: 4.5
 ---
 
-<iframe src="https://coupa.ng/ccn7Qp" width="120" height="240" frameborder="0" scrolling="no" referrerpolicy="unsafe-url"></iframe>
+<a href="https://coupa.ng/ccn7Qp"><b> Click to purchase at Coupang Korea <font color='#01579B'></font></b></a>
 
 
 좋은 상품만 선별해서 추천드리고 있습니다.
@@ -19,4 +19,8 @@ rating: 4.5
 바쁘시다면, 추천 이유로 좀더 요약해서 설명드렸으니, 참고 부탁드립니다.
 
 
-![image](https://thumbnail9.coupangcdn.com/thumbnails/remote/q89/image/retail/images/688742011593586-fc8725ed-2fff-406b-ab76-835a162e82a1.jpg)
+<a href="https://coupa.ng/ccn7Qp"><img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/q89/image/retail/images/688742011593586-fc8725ed-2fff-406b-ab76-835a162e82a1.jpg"></a> 
+
+
+
+본 블로그는 파트너스 활동을 통해 일정액의 수수료를 제공받을 수 있습니다.
