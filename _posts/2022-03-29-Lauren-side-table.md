@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Lauren Side Table"
+title:  "뭔데이건???"
 author: Expatcoupang
-categories: [ Funiture, Interior, Table ]
-tags: [interior, round, table, side, coupang]
-image: assets/images/11.jpg
+categories: [ Jekyll, tutorial ]
+image: assets/images/12.jpg
 ---
+
 
 <a href="https://coupa.ng/ccn7Qp"><b> Click to purchase at Coupang Korea <font color='#01579B'></font></b></a>
 
@@ -16,6 +16,15 @@ image: assets/images/11.jpg
 다음 이미지를 클릭하시면 해당 상품에 대한 상세 내용을 보실 수 있습니다.
 
 바쁘시다면, 추천 이유로 좀더 요약해서 설명드렸으니, 참고 부탁드립니다.
+
+---
+layout: post
+title:  "Lauren Side Table"
+author: Expatcoupang
+categories: [ Funiture, Interior, Table ]
+tags: [interior, round, table, side, coupang]
+image: assets/images/11.jpg
+---
 
 
 <a href="https://coupa.ng/ccn7Qp"><img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/q89/image/retail/images/688742011593586-fc8725ed-2fff-406b-ab76-835a162e82a1.jpg"></a> 
