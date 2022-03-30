@@ -5,9 +5,6 @@ author: Expatcoupang
 categories: [ Funiture, Interior, Table ]
 tags: [round table, round, table, side table, coupang]
 image: assets/images/11.jpg
-description: "쿠팡에서 관련 상품으로 가장 고객 선호도가 높은 제품 중 하나입니다.. "
-featured: false
-hidden: true
 rating: 4.5
 ---
 
