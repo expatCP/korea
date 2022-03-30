@@ -3,9 +3,8 @@ layout: post
 title:  "Lauren Side Table"
 author: Expatcoupang
 categories: [ Funiture, Interior, Table ]
-tags: [round table, round, table, side table, coupang]
+tags: [interior, round, table, side, coupang]
 image: assets/images/11.jpg
-rating: 4.5
 ---
 
 <a href="https://coupa.ng/ccn7Qp"><b> Click to purchase at Coupang Korea <font color='#01579B'></font></b></a>
