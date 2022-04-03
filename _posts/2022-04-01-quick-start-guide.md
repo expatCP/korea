@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Let's test spoilers"
+title: "item test - no issue?"
 author: Expatcoupang
-categories: [ Jekyll, tutorial ]
+categories: [ interior, coupang ]
 image: assets/images/12.jpg
 featured: true
 hidden: true
