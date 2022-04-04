@@ -1,15 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github",
     "\\assets",
     "\\assets\\css",
     "\\site",
-    "\\_includes",
     "\\_layouts",
     "\\_pages",
     "\\_posts",
     "\\_sass"
   ],
-  "SelectedNode": "\\_posts\\2021-03-11-post1.md",
+  "SelectedNode": "\\_layouts\\default.html",
   "PreviewInSolutionExplorer": false
 }
