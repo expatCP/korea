@@ -6,8 +6,8 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /korea
 google_analytics: 'G-ZPMD97SKES'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+disqus: 'expatcoupang'
+mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 
@@ -41,7 +41,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 10
+paginate: 6
 paginate_path: /page:num/
     
 # Other
