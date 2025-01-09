@@ -1,12 +1,12 @@
 # Site
-name: "ExpatCoupang"
+name: "ExpatCP"
 title: "Coupang Partners for Expats and Global shoppers"
 description: "We will bring introduction for value items in coupang for your selection."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /korea
 google_analytics: 'G-ZPMD97SKES'
-disqus: 'expatcoupang'
+disqus: 'expatCP'
 mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
@@ -14,11 +14,11 @@ permalink: /:title/
 # Authors
 authors:
   Expatcoupang:
-    name: Expatcoupang
-    display_name: Expatcoupang
+    name: ExpatCP
+    display_name: ExpatCP
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: 
-    web: https://expatcoupang.github.io/korea
+    web: https://expatCP.github.io/korea
     twitter: 
     description: "This brings you coupang experience from Korea. We will enable your coupang purchase experience via this website."
   
